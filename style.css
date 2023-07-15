@@ -1,0 +1,48 @@
+
+body{
+    background-image: url('logo.png');
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+.form_container {
+    background-color: rgb(255, 255, 255);
+    width: 550px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    margin:30px auto;
+    margin-top: 200px;
+}
+.user-data {
+    width: 100%;
+    margin-bottom :10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.btn {
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.div{
+    text-decoration: none;
+    margin-top: 20px;
+    text-align: center;
+}
+.div1{
+    background-size: cover;
+    margin: 10px 50px;
+}
+ .div3{
+        margin-top: 100px;
+    }
+    .href{
+        text-decoration: none;
+
+    }
+   
